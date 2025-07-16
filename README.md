@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @AungKyawSoeOo
-- 👀 I’m interested in Web Developmentl
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @AungKyawSoeOo  
+- 👨‍💻 I’m a Web Developer with over 2 years of experience  
+- 💻 Skilled in PHP, JavaScript, and Python  
+- 🌱 Currently exploring modern frameworks and best practices  
+- 🤝 Open to collaborating on web-based projects  
+- 📫 Reach me via GitHub
 
 <!---
 AungKyawSoeOo/AungKyawSoeOo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
