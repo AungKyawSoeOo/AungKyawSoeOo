@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AungKyawSoeOo  
-- 👨‍💻 I’m a Web Developer with over 2 years of experience  
+- 👨‍💻 I’m a Web Developer with over 3 years of experience  
 - 💻 Skilled in PHP, JavaScript, Wordpress and Python  
 - 🌱 Currently exploring modern frameworks and best practices  
 - 🤝 Open to collaborating on web-based projects  
